@@ -39,7 +39,7 @@ Feel free to share your interesting results with us. If you have any questions o
 ## Background replacement for ID photo and family photo (masked region is strictly retained):
 ![replaceanything](assets/g2.png)
 
-# Replace Anything
+# Replace Anything App You can run by yourself
 
 A simple web application that lets you replace any part of an image with an image generated based on your description.
 
